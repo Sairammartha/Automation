@@ -19,14 +19,14 @@ public class Main {
 	public static void main(String[] args)
 			throws IllegalAccessException, IllegalArgumentException, InvocationTargetException {
 		System.out.println("*********************Start***********************");
-
+/*
 		if (args.length == 0) {
 			System.out.println("Arguments Not Set, Please set the arguments as re-execute");
 		}
 		WebDriver.readOrSheet();
 		BrowserDriver.getDriver(args[0]);
 		Reporter.createExecutionReport();
-		Framework.runTestSet();
+		Framework.runTestSet();*/
 
 	}
 }
